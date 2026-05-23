@@ -1,2 +1,2 @@
 # mine-s
-project
+project dan portofolio
